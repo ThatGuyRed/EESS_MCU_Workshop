@@ -1,0 +1,15 @@
+CompileFlags:
+  Add: [-Wno-unknown-type-name]
+  Remove: [-fno-tree-switch-conversion, 
+    -mtext-section-literals, 
+    -mlongcalls, 
+    -fstrict-volatile-bitfields, 
+    -fno-shrink-wrap,
+    -fzero-init-padding-bits=all,
+    -fno-malloc-dce,
+    -MissingIncludes
+  ]
+Diagnostics:
+  Suppress:
+    - pp_file_not_found
+
