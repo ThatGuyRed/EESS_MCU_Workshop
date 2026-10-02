@@ -3,10 +3,10 @@
 WORK IN PROGRESS
 
 ## Completed Code Examples:
-- [x] Workshop I - Introduction to C, Basic I/O & Timers:
+- [x] Workshop I - Introduction to C, Basic I/O & Timers
 
 ## Completed Worksheets:
-- [ ] Workshop I:
+- [ ] Workshop I - Introduction to C, Basic I/O & Timers
 
 ## Resources Available:
 - Example code for the ESP32
