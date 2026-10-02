@@ -1,4 +1,4 @@
-.pio/
-.cache/
-.git/
+*.pio/
+*.cache/
+*.git/
 
